@@ -1,0 +1,19 @@
+{
+  "name": "constructor_hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphwright/constructor_hangman.git"
+  },
+  "author": "Grace Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphwright/constructor_hangman.git"
+  },
+  "homepage": "https://github.com/ralphwright/constructor_hangman.git#readme"
+}
